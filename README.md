@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Masafumi Yamamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=masanetes)](https://github.com/masanetes/github-readme-stats)
 
 <!--
 **masanetes/masanetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
