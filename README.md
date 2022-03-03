@@ -1,7 +1,7 @@
-<a href="https://github.com/masanetes/github-readme-stats">
+<a href="https://github.com/masanetes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masanetes&show_icons=true" />
 </a>
-<a href="https://github.com/masanetes/github-readme-stats">
+<a href="https://github.com/masanetes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masanetes" />
 </a>
 
