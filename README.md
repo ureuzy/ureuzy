@@ -1,8 +1,12 @@
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" width="786" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masanetes&theme=github#gh-light-mode-only" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=masanetes&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=masanetes&count_private=true&include_all_commits=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masanetes&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masanetes&layout=compact" />
 </a>
 
 <!--
