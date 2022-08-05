@@ -1,16 +1,16 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" width="786" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masanetes&theme=github#gh-light-mode-only" />
+  <img align="center" width="786" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ureuzy&theme=github#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=masanetes&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ureuzy&count_private=true&include_all_commits=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masanetes&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ureuzy&layout=compact" />
 </a>
 
 <!--
-**masanetes/masanetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ureuzy/ureuzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
